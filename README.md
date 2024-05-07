@@ -8,7 +8,7 @@ Gosto de tecnologias, e atualmente estou cursando Técnico em Multimídias📱</
 </div>
 <br>
 
-<div style="display: inline_block"><br><
+<div style="display: inline_block"><br>
  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
                                                
  </div>
