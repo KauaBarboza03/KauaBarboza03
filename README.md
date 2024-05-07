@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1>Olá , Seja bem vindo ao meu prefil! Me chamo Kauã Barboza.<br>
+Gosto de tecnologias , e atualmente estou cursando técnico em Multimídias</h1>
 
 <!--
 **KauaBarboza03/KauaBarboza03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
