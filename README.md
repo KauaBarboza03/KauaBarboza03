@@ -1,5 +1,5 @@
-<h1>Olá , Seja bem vindo ao Meu perfil! Me chamo Kauã Barboza<br>
-Gosto de tecnologias, e atualmente estou cursando Técnico em Multimídias</h1>
+## Olá , Seja bem vindo ao Meu perfil! Me chamo Kauã Barboza
+<P> Gosto de tecnologias, e atualmente estou cursando Técnico em Multimídiasz📱</P>
 
 <div align="center">
  <img height="180em" src=""/>
