@@ -8,6 +8,8 @@ Gosto de tecnologias, e atualmente estou cursando Técnico em Multimídias📱</
 </div>
 <br>
 
+##
+
 <div style="display: inline_block"><br>
  <img align="center" alt="Kaua-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
  <img align="center" alt="Kaua-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
