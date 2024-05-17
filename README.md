@@ -15,7 +15,7 @@ Gosto de tecnologias e atualmente estou cursando Técnico em Multimídias📱</h
  <img align="center" alt="Kaua-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
  <img align="center" alt="Kaua-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
  <img align="center" alt="Kaua-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
- <img align="center" alt="Kaua-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+ <img href="https://ebaconline.com.br/blog/o-que-e-github" align="center" alt="Kaua-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
  
  </div>
 
