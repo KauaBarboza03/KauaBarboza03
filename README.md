@@ -1,5 +1,5 @@
-<h2> Olá , Seja bem vindo ao Meu perfil! Me chamo Kauã Barboza 
-Gosto de tecnologias, e atualmente estou cursando Técnico em Multimídias📱</h2>
+<h2> Olá , Seja bem vindo ao Meu perfil! Me chamo Kauã Barboza, 
+Gosto de tecnologias e atualmente estou cursando Técnico em Multimídias📱</h2>
 
  <div align="center">
  <a href=https://github.com/KauaBarboza03>
